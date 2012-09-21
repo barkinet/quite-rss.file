@@ -102,9 +102,9 @@ Open-source</Char_Desc_2000>
 		<Application_URLs>
 			<Application_Info_URL>http://code.google.com/p/quite-rss/</Application_Info_URL>
 			<Application_Order_URL>http://code.google.com/p/quite-rss/</Application_Order_URL>
-			<Application_Screenshot_URL>http://quite-rss.googlecode.com/hg/wiki/screenshots/screenshots01.png</Application_Screenshot_URL>
+			<Application_Screenshot_URL>http://file.quite-rss.googlecode.com/hg/screenshots/screenshots01.png</Application_Screenshot_URL>
 			<Application_Icon_URL>http://code.google.com/p/quite-rss/logo?cct=1335331597</Application_Icon_URL>
-			<Application_XML_File_URL>http://quite-rss.googlecode.com/hg/wiki/quiterss_pad_file.xml</Application_XML_File_URL>
+			<Application_XML_File_URL>http://file.quite-rss.googlecode.com/hg/quiterss_pad_file.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
 			<Primary_Download_URL>http://quite-rss.googlecode.com/files/QuiteRSS-0.10.2.zip</Primary_Download_URL>
