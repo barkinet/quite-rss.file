@@ -1,0 +1,4 @@
+syntax: glob
+installer/Data/*
+installer/QuiteRSS.exe
+installer/Setup/QuiteRSS_Setup.exe
