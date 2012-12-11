@@ -2,8 +2,7 @@
 
 #define _AppName "QuiteRSS"
 #define _AppVersion GetStringFileInfo("QuiteRSS.exe", FILE_VERSION)
-;#define _AppVerName GetStringFileInfo("QuiteRSS.exe", PRODUCT_VERSION)
-#define _AppVerName "0.10.3"
+#define _AppVerName GetStringFileInfo("QuiteRSS.exe", PRODUCT_VERSION)
 #define _AppPublisher "QuiteRSS Team"
 
 [Setup]
