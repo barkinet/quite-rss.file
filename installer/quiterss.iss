@@ -41,6 +41,7 @@ Source: Data\lang\*; DestDir: {app}\lang;
 Source: Data\phonon_backend\*; DestDir: {app}\phonon_backend;
 Source: Data\sound\*; DestDir: {app}\sound;
 Source: Data\sqldrivers\*; DestDir: {app}\sqldrivers;
+Source: Data\style\*; DestDir: {app}\style;
 
 [Icons]
 Name: {group}\{#_AppName}; Filename: {app}\{#_AppName}.exe; WorkingDir: {app}
@@ -49,13 +50,21 @@ Name: {group}\{cm:UninstallProgram, {#_AppName}}; Filename: {uninstallexe}
 
 [Languages]
 Name: "en"; MessagesFile: "compiler:Default.isl"
+Name: "cs"; MessagesFile: "compiler:Languages\Czech.isl"
 Name: "nl"; MessagesFile: "compiler:Languages\Dutch.isl"
-Name: "ru"; MessagesFile: "compiler:Languages\Russian.isl"
 Name: "fr"; MessagesFile: "compiler:Languages\French.isl"
 Name: "de"; MessagesFile: "compiler:Languages\German.isl"
+Name: "el"; MessagesFile: "compiler:Languages\Greek.isl"
 Name: "hu"; MessagesFile: "compiler:Languages\Hungarian.isl"
 Name: "it"; MessagesFile: "compiler:Languages\Italian.isl"
+Name: "ja"; MessagesFile: "compiler:Languages\Japanese.isl"
+Name: "pl"; MessagesFile: "compiler:Languages\Polish.isl"
+Name: "pt"; MessagesFile: "compiler:Languages\Portuguese.isl"
+Name: "pt_BR"; MessagesFile: "compiler:Languages\BrazilianPortuguese.isl"
+Name: "ru"; MessagesFile: "compiler:Languages\Russian.isl"
 Name: "sr"; MessagesFile: "compiler:Languages\SerbianCyrillic.isl"
+Name: "es"; MessagesFile: "compiler:Languages\Spanish.isl"
+Name: "uk"; MessagesFile: "compiler:Languages\Ukrainian.isl"
 
 [INI]
 Filename: {app}\{#_AppName}.url; Section: InternetShortcut; Key: URL; String: http://code.google.com/p/quite-rss/
