@@ -35,6 +35,7 @@ PrivilegesRequired=none
 [Files]
 Source: {#_AppName}.exe; DestDir: {app}; Flags: skipifsourcedoesntexist
 Source: Data\*; DestDir: {app};
+Source: Data\codecs\*; DestDir: {app}\codecs;
 Source: Data\iconengines\*; DestDir: {app}\iconengines;
 Source: Data\imageformats\*; DestDir: {app}\imageformats;
 Source: Data\lang\*; DestDir: {app}\lang;
@@ -64,6 +65,8 @@ Name: "ru"; MessagesFile: "compiler:Languages\Russian.isl"
 Name: "sr"; MessagesFile: "compiler:Languages\SerbianCyrillic.isl"
 Name: "es"; MessagesFile: "compiler:Languages\Spanish.isl"
 Name: "uk"; MessagesFile: "compiler:Languages\Ukrainian.isl"
+Name: "fi"; MessagesFile: "compiler:Languages\Finnish.isl"
+Name: "sl"; MessagesFile: "compiler:Languages\Slovenian.isl"
 
 [INI]
 Filename: {app}\{#_AppName}.url; Section: InternetShortcut; Key: URL; String: http://code.google.com/p/quite-rss/
