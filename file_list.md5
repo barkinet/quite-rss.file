@@ -1,6 +1,6 @@
 8911dc75b6e7ea74204e6018e49bc8e7 *lang\quiterss_ar.qm
 5ae9c843dec8dbd29b080a11257280fe *lang\quiterss_cs.qm
-a84e5ed781b19e5826afdaa9b5ea9c01 *lang\quiterss_de.qm
+14c38cfb85027ace9a93d5cc5e8fe23f *lang\quiterss_de.qm
 52502de87b2d0d51162b8eab52b519df *lang\quiterss_el_GR.qm
 4aef4415f2e976b2cc6f24b877804a57 *lang\quiterss_en.qm
 d80ae46c75ce02fcbcac0755942f8aef *lang\quiterss_es.qm
@@ -13,7 +13,7 @@ a72273b48c319f911686f90ef4407c5e *lang\quiterss_hu.qm
 28532ca60013f19d788cc0532920052c *lang\quiterss_ja.qm
 0a1b0265844aa5d2f6349ded0ea89b99 *lang\quiterss_ko.qm
 096d6860960b572bb10a64581fe28beb *lang\quiterss_lt.qm
-01fe44e836d8b8f61bad4a2170d69a46 *lang\quiterss_nl.qm
+dbade9b2ca3c2bb1707665feff352ba2 *lang\quiterss_nl.qm
 546c256cfbeda3780734e2fd776aaf94 *lang\quiterss_pl.qm
 b3045af3ec43c70588ebc7f33a60d1af *lang\quiterss_pt_BR.qm
 e150e05d20a1e5175555c85037db3c45 *lang\quiterss_pt_PT.qm
@@ -28,7 +28,7 @@ b24733e1491a4aeb2aaf7c9a0eb732b2 *lang\quiterss_uk.qm
 1d27ccff68059db9104f5d5a5b0a5aa6 *lang\quiterss_vi.qm
 53ea86608817db5e4db62ef16360c8b2 *lang\quiterss_zh_CN.qm
 37f4c98d4318d00ffd5a380d96b0b7e0 *lang\quiterss_zh_TW.qm
-2acb78aa344e4401293ad926994f8a03 *QuiteRSS.exe
+08f9646f68696e4393292c7e3164f3a2 *QuiteRSS.exe
 42badc1d2f03a8b1e4875740d3d49336 *7za.exe
 89997b8e94e9d7145dd73171bffb074d *Updater.exe
 8bea4cba3a63622db5d3de38d9b11172 *sound\notification.wav
@@ -42,8 +42,8 @@ ac6b30bc35c1b5e79b64b87c6c5c6e7e *style\system2.qss
 fa4616642adb7639e25e42fde79c1433 *style\news.css
 4cd5523b55fe63b81395ffea0089b401 *AUTHORS
 bc9fef6c0d294c2f6040f6c484e389e4 *COPYING
-5e6218df60db8516a3ec69c537eaa3f1 *HISTORY_EN
-79c386eac0819b4d82f4e299e636b635 *HISTORY_RU
+78e99bdefdbaeaf661971ac5e2cac834 *HISTORY_EN
+d9c9fc8d64e83bead17e8f30ec0ff8f9 *HISTORY_RU
 cfdbf4e3bf17e54e5f725153de810494 *README
 6ac84542a3e71af05f059c2d94ef5456 *sqldrivers\qsqlite4.dll
 2e58b27ac44f1213a209b264370e186c *iconengines\qsvgicon4.dll
